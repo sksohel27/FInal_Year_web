@@ -1,6 +1,6 @@
-flask
-tensorflow
-scikit-learn
-numpy
-pandas
+streamlit
+tensorflow==2.15.0
 joblib
+numpy
+nltk
+scikit-learn
